@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoMayaPlugIn", "DynamoMaya\DynamoMayaPlugIn.csproj", "{E2792456-8BA8-4336-8254-DEEFA9B366E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoMayaNodes", "DynamoMayaNodes\DynamoMayaNodes.csproj", "{9A190A72-44F3-4575-9762-0BEE2ED4F434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|x64.ActiveCfg = Debug|x64
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Debug|x64.Build.0 = Debug|x64
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|x64.ActiveCfg = Release|x64
+		{E2792456-8BA8-4336-8254-DEEFA9B366E6}.Release|x64.Build.0 = Release|x64
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Debug|x64.Build.0 = Debug|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9A190A72-44F3-4575-9762-0BEE2ED4F434}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
